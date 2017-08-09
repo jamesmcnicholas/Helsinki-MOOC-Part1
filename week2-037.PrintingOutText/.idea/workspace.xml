@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c37356d5-98de-4bc5-8b43-6b91a3170436" name="Default" comment="" />
+    <list default="true" id="1ff7ee3f-6979-4bdf-bcbb-5a9ebbf76ca7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,12 +13,15 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NhlStatisticsPart2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/NhlStatisticsPart2.java">
+      <file leaf-file-name="PrintingOutText.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PrintingOutText.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="32" column="50" lean-forward="false" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
-              <folding />
+            <state relative-caret-position="51">
+              <caret line="3" column="86" lean-forward="false" selection-start-line="3" selection-start-column="86" selection-end-line="3" selection-end-column="86" />
+              <folding>
+                <element signature="e#67#68#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -33,7 +36,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/NhlStatisticsPart2.java" />
+        <option value="$PROJECT_DIR$/src/PrintingOutText.java" />
       </list>
     </option>
   </component>
@@ -58,6 +61,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -66,7 +70,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="week1-024.NhlStatisticsPart2" />
+              <option name="myItemId" value="week2-037.PrintingOutText" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -76,7 +80,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="week1-024.NhlStatisticsPart2" />
+              <option name="myItemId" value="week2-037.PrintingOutText" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -86,9 +90,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -256,7 +259,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="week1-024.NhlStatisticsPart2" />
+      <module name="week2-037.PrintingOutText" />
       <envs />
       <method />
     </configuration>
@@ -314,16 +317,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c37356d5-98de-4bc5-8b43-6b91a3170436" name="Default" comment="" />
-      <created>1502034497313</created>
+      <changelist id="1ff7ee3f-6979-4bdf-bcbb-5a9ebbf76ca7" name="Default" comment="" />
+      <created>1502056832745</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1502034497313</updated>
+      <updated>1502056832745</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="-4" width="1313" height="772" extended-state="7" />
+    <frame x="53" y="-4" width="1313" height="772" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -341,7 +344,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498096" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TMC Project List" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TMC Project List" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977912" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -364,11 +367,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/NhlStatisticsPart2.java">
+    <entry file="file://$PROJECT_DIR$/src/PrintingOutText.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="32" column="50" lean-forward="false" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
-          <folding />
+        <state relative-caret-position="51">
+          <caret line="3" column="86" lean-forward="false" selection-start-line="3" selection-start-column="86" selection-end-line="3" selection-end-column="86" />
+          <folding>
+            <element signature="e#67#68#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

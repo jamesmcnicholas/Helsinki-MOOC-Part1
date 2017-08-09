@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c37356d5-98de-4bc5-8b43-6b91a3170436" name="Default" comment="" />
+    <list default="true" id="6c6cea15-d394-40ec-863b-06ec0f528d04" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +13,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NhlStatisticsPart2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/NhlStatisticsPart2.java">
+      <file leaf-file-name="SumOfThePowers.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SumOfThePowers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="32" column="50" lean-forward="false" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+            <state relative-caret-position="204">
+              <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -33,7 +33,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/NhlStatisticsPart2.java" />
+        <option value="$PROJECT_DIR$/src/SumOfThePowers.java" />
       </list>
     </option>
   </component>
@@ -58,6 +58,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -66,7 +69,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="week1-024.NhlStatisticsPart2" />
+              <option name="myItemId" value="week2-035.SumOfThePowers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -76,7 +79,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="week1-024.NhlStatisticsPart2" />
+              <option name="myItemId" value="week2-035.SumOfThePowers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -86,9 +89,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -256,7 +256,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="week1-024.NhlStatisticsPart2" />
+      <module name="week2-035.SumOfThePowers" />
       <envs />
       <method />
     </configuration>
@@ -314,16 +314,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c37356d5-98de-4bc5-8b43-6b91a3170436" name="Default" comment="" />
-      <created>1502034497313</created>
+      <changelist id="6c6cea15-d394-40ec-863b-06ec0f528d04" name="Default" comment="" />
+      <created>1502047506730</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1502034497313</updated>
+      <updated>1502047506730</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="-4" width="1313" height="772" extended-state="7" />
+    <frame x="53" y="-4" width="1313" height="772" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -364,10 +364,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/NhlStatisticsPart2.java">
+    <entry file="file://$PROJECT_DIR$/src/SumOfThePowers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="32" column="50" lean-forward="false" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+        <state relative-caret-position="204">
+          <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
           <folding />
         </state>
       </provider>

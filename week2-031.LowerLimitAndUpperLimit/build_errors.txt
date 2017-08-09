@@ -1,0 +1,6 @@
+
+BUILD FAILED
+/home/james/IdeaProjects/TMCProjects/2013-OOProgrammingWithJava-PART1/week2-031.LowerLimitAndUpperLimit/nbproject/build-impl.xml:915: The following error occurred while executing this line:
+/home/james/IdeaProjects/TMCProjects/2013-OOProgrammingWithJava-PART1/week2-031.LowerLimitAndUpperLimit/nbproject/build-impl.xml:268: Error running javac compiler
+
+Total time: 0 seconds

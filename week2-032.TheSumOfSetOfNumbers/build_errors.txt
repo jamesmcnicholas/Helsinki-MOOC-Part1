@@ -1,0 +1,6 @@
+
+BUILD FAILED
+/home/james/IdeaProjects/TMCProjects/2013-OOProgrammingWithJava-PART1/week2-032.TheSumOfSetOfNumbers/nbproject/build-impl.xml:603: The following error occurred while executing this line:
+/home/james/IdeaProjects/TMCProjects/2013-OOProgrammingWithJava-PART1/week2-032.TheSumOfSetOfNumbers/nbproject/build-impl.xml:245: Error running javac compiler
+
+Total time: 0 seconds
