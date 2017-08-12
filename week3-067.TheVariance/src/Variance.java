@@ -1,19 +1,28 @@
 import java.util.ArrayList;
 
 public class Variance {
-    // Copy here sum from exercise 63 
+
     public static int sum(ArrayList<Integer> list) {
-        return 0;
-    }
-    
-    // Copy here average from exercise 64 
-    public static double average(ArrayList<Integer> list) {
-        return 0;
+        int sum=0;
+        for(int item:list){
+            sum+=item;
+        }
+        return sum;
     }
 
+    public static double average(ArrayList<Integer> list) {
+        double avg = (double)(sum(list));
+        avg/=list.size();
+        return avg;
+    }
     public static double variance(ArrayList<Integer> list) {
-        // write code here
-        return 0;
+        double avg = average(list);
+        double total=0;
+        for(int item:list){
+            total+=((item-avg)*(item-avg));
+        }
+        total/=(list.size()-1);
+        return total;
     }
     
     public static void main(String[] args) {

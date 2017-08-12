@@ -1,9 +1,20 @@
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Scanner;
 
 public class Palindromi {
 
     public static boolean palindrome(String text) {
-        // write code here
+        ArrayList<String> store = new ArrayList<>();
+        ArrayList<String> reverse = new ArrayList<>();
+        for(int i=0;i<text.length();i++){
+            store.add(text.substring(i,i+1));
+            reverse.add(text.substring(i,i+1));
+        }
+        Collections.reverse(reverse);
+        if (reverse.equals(store)){
+            return true;
+        }
         return false;
     }
 
