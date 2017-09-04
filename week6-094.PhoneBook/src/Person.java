@@ -1,0 +1,27 @@
+import java.util.ArrayList;
+
+/**
+ * Created by James on 31/08/2017.
+ */
+public class Person {
+    private String name;
+    private String number;
+
+
+    public Person(String name, String number){
+        this.name = name;
+        this.number = number;
+    }
+    public String getName(){
+        return this.name;
+    }
+    public String getNumber(){
+        return this.number;
+    }
+    public String toString(){
+        return (this.name+" number:"+this.number);
+    }
+    public void changeNumber(String number){
+        this.number=number;
+    }
+}
